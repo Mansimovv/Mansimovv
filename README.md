@@ -4,7 +4,7 @@
 
 I'm a Software Engineer focused on building useful software, solving real-world problems, and continuously growing as a developer.
 
-🏢 **SABAH.HUB**  
+🏢  Currently working at**SABAH.HUB**  
 🎓 **Baku State University — Computer Science**
 
 ---
